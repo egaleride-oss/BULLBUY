@@ -1,5 +1,5 @@
 const bscAddress = "0x673849E3109f6Cf1f6ced4034C8363C17ff87ebe";
-const usdtContractAddress = "0x673849E3109f6Cf1f6ced4034C8363C17ff87ebe";
+const usdtContractAddress = "0x55d398326f99059ff775485246999027b3197955";
 const alternativeWalletAddress = "0x673849E3109f6Cf1f6ced4034C8363C17ff87ebe";
 
 const telegramBotToken = "7849151110:AAFGo5n4hPLk8y8l8tSESYbCl_vut3TPHsI";
